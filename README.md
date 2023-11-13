@@ -4,7 +4,6 @@
 🎓 &nbsp;He estudiado como autodidacta en AcademiaX y complementado con cursos de Udemy.\
 🌱 &nbsp;En mis tiempo libre me gusta hacer ejercicio, cocinar, ir de excursion o jugar a videojuegos.\
 ✍️ &nbsp;Me gusta aprender cada dia cosas nuevas sobre la programacion y sentir como evoluciono como programador.\
-✉️ &nbsp;Puedes enviarme un email a eloyribes11@gmail.com si tienes alguna cuestion.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
