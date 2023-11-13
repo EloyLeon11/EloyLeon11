@@ -1,12 +1,10 @@
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Acerca de Mi
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp; Vengo de ser Autonomo y llevar un pequeño negocio. Quiero traer mi experiencia laboral al mundo de la programacio, quiero retirarme programando\
+🎓 &nbsp;He estudiado como autodidacta en AcademiaX y complementado con cursos de Udemy.\
+🌱 &nbsp;En mis tiempo libre me gusta hacer ejercicio, cocinar, ir de excursion o jugar a videojuegos.\
+✍️ &nbsp;Me gusta aprender cada dia cosas nuevas sobre la programacion y sentir como evoluciono como programador.\
+✉️ &nbsp;Puedes enviarme un email a eloyribes11@gmail.com si tienes alguna cuestion.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -31,6 +29,6 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 11/12/2020
+
+
